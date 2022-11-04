@@ -1,0 +1,173 @@
+.hp-body {
+    background-color: whitesmoke;
+}
+.logoh {
+    height: 90px;
+}
+
+.nav-item {
+    margin-left: 30px;
+}
+
+.nav-link {
+    font-size: 20px;
+}
+
+.nav-link {
+    color: black;
+    font-size: larger;
+    transition: 0.5s ease-in-out;
+}
+
+
+.nav-link:hover {
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+}
+
+.navbar-toggler-icon {
+    transition: 0.5s;
+}
+
+.navbar-toggler-icon:hover {
+    transform: rotate(360deg);
+}
+
+
+.shopping-cart {
+    height: 30px;
+    transition: 0.5s;
+    margin-top: 8px;
+}
+
+.shopping-cart:hover {
+    transform: rotate(360deg);
+}
+
+.user-icon {
+    height: 30px;
+    margin-top: 8px;
+}
+
+.search-icon {
+    height: 25px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+
+.searchbar {
+    border-top: 2px;
+    border-bottom: 2px;
+    border-radius: 10px;
+    border-right: 0px;
+    border-left: 0px;
+    border-style: solid;
+    width: 40%;
+    height: 30px;
+    position: relative;
+}
+
+.carousel img {
+    height: 700px;
+}
+
+.section-line1 {
+    height: 5px;
+    background-color: black;
+    width: 90%;
+    opacity: 50%;
+    border-radius: 80%;
+}
+
+
+.h2
+{
+    font-size: 40px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    font-style: italic;
+    margin-top: 20px;
+    text-decoration: underline;
+    
+}
+#contdiv
+{
+    height: 600px;
+    width: 70%;
+    margin-top: 50px;
+    border-radius: 50px;
+    background-color: gray;
+}
+#exampleFormControlInput1
+{
+    border-radius: 10px;
+}
+#exampleFormControlInput2
+{
+    border-radius: 10px;
+}
+#exampleFormControlInput3
+{
+    border-radius: 10px;
+    
+}
+#label1
+{
+font-weight: bolder;
+}
+.boys {
+    background-image: url('Images/Boy.png');
+    height: 545px;
+    width: 400px;
+    border: 1px black solid;
+    background-repeat: no-repeat;
+    transform: scaleX(-1);
+}
+
+.boys-bt {
+    background-color: White;
+    width: 160px;
+    height: 80px;
+    font-size: 35px;
+    margin-top: 300px;
+    border: none;
+    transform: scaleX(-1);
+    transition: 0.3s;
+}
+
+.girls {
+    background-image: url('Images/Girl.png');
+    height: 545px;
+    width: 400px;
+    border: 1px black solid;
+    background-repeat: no-repeat;
+}
+
+.girls-bt {
+    background-color: White;
+    width: 160px;
+    height: 80px;
+    font-size: 35px;
+    margin-top: 300px;
+    border: none;
+    transition: 0.3s;
+}
+
+.shopnow {
+    height: 545px;
+    width: 400px;
+}
+
+.shopnow-bt {
+    background-color: transparent;
+    width: 200px;
+    height: 100px;
+    font-size: 35px;
+    font-style: italic;
+    margin-top: 200px;
+    pointer-events: none;
+}
+
+.list-unstyled a {
+    color: black;
+}
